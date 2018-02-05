@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/svy_framework/nav_navigation_keys",
+items:[
+{foreignColumnName:"program_name",primaryDataProviderID:"program_name",typeid:23,uuid:"1793A7C5-C721-4ECE-B9B2-28269D48C032"},
+{foreignColumnName:"code",primaryDataProviderID:"globals.nav_btn_method",typeid:23,uuid:"1B5F0203-92CB-43C1-AC58-65C4B852844A"}
+],
+name:"nav_program_to_nav_navigation_keys$btn_methods",
+primaryDataSource:"db:/svy_framework/nav_program",
+typeid:22,
+uuid:"BF5B9851-07FC-4FD4-B085-B3D28DC3593D"

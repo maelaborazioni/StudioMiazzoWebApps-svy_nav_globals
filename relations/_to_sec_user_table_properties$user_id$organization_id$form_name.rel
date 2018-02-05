@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/svy_framework/sec_user_table_properties",
+items:[
+{foreignColumnName:"form_name",operator:0,primaryDataProviderID:"globals.nav_current_formname",typeid:23,uuid:"65AD5A6E-D776-4987-8ADA-68DEF10DB82B"},
+{foreignColumnName:"user_id",operator:0,primaryDataProviderID:"globals.svy_sec_lgn_user_id",typeid:23,uuid:"65F19EBF-FF31-4190-85B5-1A6D3F6F1BAA"},
+{foreignColumnName:"organization_id",operator:0,primaryDataProviderID:"globals.svy_sec_lgn_organization_id",typeid:23,uuid:"F5A7C0C2-1A3C-43F0-821E-4B66A70A06C7"}
+],
+name:"_to_sec_user_table_properties$user_id$organization_id$form_name",
+primaryDataSource:"db:/svy_framework/sec_user_table_properties",
+typeid:22,
+uuid:"AD8CDC29-1897-40F4-A476-D9657535168A"

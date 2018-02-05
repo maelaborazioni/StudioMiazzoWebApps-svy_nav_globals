@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/svy_framework/nav_program",
+items:[
+{foreignColumnName:"program_name",primaryDataProviderID:"program_name",typeid:23,uuid:"168E8037-96CE-4047-909E-8107124D4ECD"}
+],
+name:"nav_program_to_nav_program",
+primaryDataSource:"db:/svy_framework/nav_program",
+typeid:22,
+uuid:"360FAE27-ED14-4634-B3C1-8833FEBB760D"

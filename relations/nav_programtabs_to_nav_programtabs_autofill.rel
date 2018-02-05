@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/svy_framework/nav_programtabs_autofill",
+items:[
+{foreignColumnName:"programtab_id",primaryDataProviderID:"programtab_id",typeid:23,uuid:"4255C7B4-1BC4-49B8-8953-CEEA6969CA23"}
+],
+name:"nav_programtabs_to_nav_programtabs_autofill",
+primaryDataSource:"db:/svy_framework/nav_programtabs",
+typeid:22,
+uuid:"4114F44A-0F08-4242-811E-9B4C7568D903"

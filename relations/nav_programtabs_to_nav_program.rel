@@ -1,0 +1,8 @@
+foreignDataSource:"db:/svy_framework/nav_program",
+items:[
+{foreignColumnName:"program_name",primaryDataProviderID:"program_name",typeid:23,uuid:"158C227B-975C-43B9-94B8-B4EBE11E6BB4"}
+],
+name:"nav_programtabs_to_nav_program",
+primaryDataSource:"db:/svy_framework/nav_programtabs",
+typeid:22,
+uuid:"EE201147-AC79-4CEA-BC53-FB3F44944F87"

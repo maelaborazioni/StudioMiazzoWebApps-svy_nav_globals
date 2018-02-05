@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/svy_framework/sec_organization",
+items:[
+{foreignColumnName:"organization_id",primaryDataProviderID:"globals.svy_sec_lgn_organization_id",typeid:23,uuid:"7B63B2EF-CA5D-48C5-AD78-2C0C04120F90"}
+],
+name:"_to_sec_organization$lgn",
+primaryDataSource:"db:/svy_framework/sec_organization",
+typeid:22,
+uuid:"3E79FB8B-87AE-4490-92E6-DA263A23C4EC"
