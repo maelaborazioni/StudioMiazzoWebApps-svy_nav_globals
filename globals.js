@@ -414,6 +414,11 @@ var svy_sec_lgn_user_id = null;
 var svy_sec_lgn_user_org_id = null;
 
 /**
+ * @properties={typeid:35,uuid:"38405A71-766A-471F-9C24-179496970E6C",variableType:-4}
+ */
+var svy_sec_cookies = true;
+
+/**
  * @type {Number}
  *
  * @properties={typeid:35,uuid:"e3514606-b6e1-4236-9d91-d1baea1a6335",variableType:4}
